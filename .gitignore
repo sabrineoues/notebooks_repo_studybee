@@ -1,0 +1,53 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# Virtual Environment
+# =========================
+venv/
+.env/
+.venv/
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# HuggingFace / Transformers
+# =========================
+*.bin
+*.pt
+*.safetensors
+*.ckpt
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# OS / System files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# Cache / temp
+# =========================
+.cache/
+
+#models and environment
+emotion_model/
+physical_model/
+venv/

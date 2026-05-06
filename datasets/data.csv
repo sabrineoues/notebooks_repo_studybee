@@ -1,0 +1,121 @@
+text,emotion,physical_state
+I feel very tired today,sadness,tired
+Je suis très fatigué aujourd'hui,sadness,tired
+I am exhausted after a long day,sadness,tired
+Je suis épuisé après une longue journée,sadness,tired
+I feel full of energy and ready to go,joy,energetic
+Je me sens plein d'énergie et prêt,joy,energetic
+I am very happy today,joy,energetic
+Je suis très heureux aujourd'hui,joy,energetic
+I feel weak and sick,sadness,weak
+Je me sens faible et malade,sadness,weak
+I am stressed and overwhelmed,anger,tense
+Je suis stressé et dépassé,anger,tense
+I feel calm and relaxed,calm,relaxed
+Je me sens calme et détendu,calm,relaxed
+I am nervous about tomorrow,fear,tense
+Je suis nerveux pour demain,fear,tense
+I feel amazing and active,joy,energetic
+Je me sens incroyable et actif,joy,energetic
+I am drained and can barely move,sadness,tired
+Je suis vidé et je peux à peine bouger,sadness,tired
+I feel frustrated and tense,anger,tense
+Je suis frustré et tendu,anger,tense
+I feel peaceful and rested,calm,relaxed
+Je me sens paisible et reposé,calm,relaxed
+I am very sad and low on energy,sadness,weak
+Je suis très triste et sans énergie,sadness,weak
+I feel motivated and strong,joy,energetic
+Je me sens motivé et fort,joy,energetic
+I am anxious and my body feels tight,fear,tense
+Je suis anxieux et mon corps est tendu,fear,tense
+I feel refreshed after sleeping,joy,energetic
+Je me sens rafraîchi après dormir,joy,energetic
+I feel bored and tired,sadness,tired
+Je m'ennuie et je suis fatigué,sadness,tired
+I am excited and full of energy,joy,energetic
+Je suis excité et plein d'énergie,joy,energetic
+I feel stressed and exhausted,anger,tired
+Je suis stressé et épuisé,anger,tired
+I am relaxed and comfortable,calm,relaxed
+Je suis détendu et confortable,calm,relaxed
+I feel weak after being sick,sadness,weak
+Je me sens faible après être malade,sadness,weak
+I am tense and worried,fear,tense
+Je suis tendu et inquiet,fear,tense
+I feel happy and refreshed,joy,energetic
+Je me sens heureux et rafraîchi,joy,energetic
+I am physically drained,sadness,tired
+Je suis physiquement vidé,sadness,tired
+I am calm and peaceful,calm,relaxed
+Je suis calme et paisible,calm,relaxed
+I feel anxious and tired,fear,tired
+Je me sens anxieux et fatigué,fear,tired
+I am energetic and productive,joy,energetic
+Je suis énergique et productif,joy,energetic
+I feel sick and exhausted,sadness,tired
+Je suis malade et épuisé,sadness,tired
+I am overwhelmed and stressed,anger,tense
+Je suis dépassé et stressé,anger,tense
+I feel relaxed after meditation,calm,relaxed
+Je me sens détendu après méditation,calm,relaxed
+I feel strong and active,joy,energetic
+Je me sens fort et actif,joy,energetic
+I am worried and tense,fear,tense
+Je suis inquiet et tendu,fear,tense
+I feel very weak today,sadness,weak
+Je me sens très faible aujourd'hui,sadness,weak
+I am calm and well rested,calm,relaxed
+Je suis calme et bien reposé,calm,relaxed
+I am happy and relaxed,joy,relaxed
+Je suis heureux et détendu,joy,relaxed
+I feel tired and stressed after work,anger,tired
+Je suis fatigué et stressé après le travail,anger,tired
+I feel anxious and tired,fear,tired
+Je me sens anxieux et fatigué,fear,tired
+I feel weak and anxious,fear,weak
+Je me sens faible et anxieux,fear,weak
+I am energetic but stressed,anger,energetic
+Je suis énergique mais stressé,anger,energetic
+I feel mentally tired and physically exhausted,sadness,tired
+Je suis fatigué mentalement et épuisé physiquement,sadness,tired
+I am calm but low on energy,calm,weak
+Je suis calme mais sans énergie,calm,weak
+I feel stressed and my muscles are tight,anger,tense
+Je suis stressé et mes muscles sont tendus,anger,tense
+I am happy but physically tired,joy,tired
+Je suis heureux mais fatigué,joy,tired
+I feel very tense and stressed,anger,tense
+My body is tight and I feel pressure,anger,tense
+Je suis très tendu et stressé,anger,tense
+Je ressens beaucoup de pression,fear,tense
+I feel completely relaxed and calm,calm,relaxed
+My body is loose and I feel peaceful,calm,relaxed
+Je suis totalement détendu,calm,relaxed
+Je me sens calme et relâché,calm,relaxed
+I feel full of energy and active,joy,energetic
+I am very energetic and motivated,joy,energetic
+Je suis plein d'énergie,joy,energetic
+Je me sens très actif,joy,energetic
+I feel weak and cannot move much,sadness,weak
+My body feels fragile and tired,sadness,weak
+Je me sens faible et fragile,sadness,weak
+Je n'ai pas de force,sadness,weak
+I feel extremely tired and drained,sadness,tired
+I have no energy left at all,sadness,tired
+Je suis complètement fatigué,sadness,tired
+Je n'ai plus d'énergie,sadness,tired
+I feel extremely energetic and active,joy,energetic
+I am full of energy and ready to work,joy,energetic
+Je suis plein d'énergie et actif,joy,energetic
+Je me sens très dynamique,joy,energetic
+I feel extremely weak and cannot move,sadness,weak
+My body has no strength at all,sadness,weak
+I feel physically fragile and drained,sadness,weak
+Je me sens très faible et sans force,sadness,weak
+Je n'ai aucune énergie dans mon corps,sadness,weak
+I feel relaxed but still tired,calm,tired
+I feel weak but not stressed,sadness,weak
+I feel energetic but slightly tense,joy,tense
+Je suis détendu mais fatigué,calm,tired
+Je me sens faible mais pas stressé,sadness,weak
