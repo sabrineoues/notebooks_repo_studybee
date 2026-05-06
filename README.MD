@@ -95,7 +95,7 @@ emotion-physical-classifier/
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/emotion-physical-classifier.git
+git clone https://github.com/bedda02/emotion-physical-classifier.git
 cd emotion-physical-classifier
 pip install -r requirements.txt
 
